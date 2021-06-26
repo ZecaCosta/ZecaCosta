@@ -1,11 +1,10 @@
-<h1 align="center">Olá 👋, sou Zeca Costa</h1>
-<h3 align="center">Desenvolvedor fullstack</h3>
+<h1 align="center">Olá, sou Zeca Costa</h1>
+<h2 align="right">Estudante de Desenvolvimento Web na Trybe/h3>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/zecacosta)](https://github.com/zecacosta)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-carlos-da-csta/)](https://www.linkedin.com/in/jose-carlos-da-costa)
 
 
-- 📫 Meu melhor email de contatp é **jccostaso@gmail.com**
+- 📫 Meu melhor email de contato é **jccostaso@gmail.com**
 
 <h3 align="left">Mais detalhes sobre mim, acesse meu linkedin:</h3>
 <p align="left">
