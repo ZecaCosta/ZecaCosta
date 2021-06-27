@@ -26,5 +26,4 @@
 ![Zecas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZecaCosta&show_icons=true&theme=radical)
 
 <h3>Meus interesses e projetos</h3>
-Aprecio muito resolver problemas, assim a busca constante por novos aprendizados faz parte da minha vida. Trabalhei 15 anos na área de Telecom, migrei para área
-
+Aprecio muito resolver problemas, assim a busca constante por novos aprendizados faz parte da minha vida. Trabalhei 15 anos na área de Telecom, migrei para área administrativa financeira, onde permaneço atuando até hoje como consultor de negócios da Just & ETC Group, empresa do segmento de intercâmbio. A paixão por facilitar a vida das pessoas, através da automatização de processos, me levou a aprender a programar em VBA Excel. Os resultados obtidos me convenceram que estudar desenvolvimento de software me possibilitará, por meio da tecnologia, causar um impacto positivo na vida de muitas pessoas. Essa convicção me fez buscar a mudança de carreira e nessa busca encontrei na Trybe, uma escola que além de me ensinar programação, me ensina aprender a aprender todos os dias. Destaco como minhas habilidades, análise e automação de processos, levantamento de requisitos, banco de dados SQL/NoSQL, análise de dados, VBA Excel, HTML, CSS, JavaScript, React.js, Node.js, Github e testes automatizados.
