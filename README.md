@@ -26,4 +26,5 @@
 ![Zecas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZecaCosta&show_icons=true&theme=radical)
 
 <h3>Meus interesses e projetos</h3>
+Aprecio muito resolver problemas, assim a busca constante por novos aprendizados faz parte da minha vida. Trabalhei 15 anos na área de Telecom, migrei para área
 
