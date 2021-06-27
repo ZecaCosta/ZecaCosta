@@ -1,4 +1,4 @@
-<h1 align="center">👋 print("Hello, World!") </h1> 
+<h1 align="center">Hello, World! </h1> 
 
 <p>
     Meu nome é <strong>José Carlos da Costa</strong> e atualmente sou estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
