@@ -1,8 +1,10 @@
-<h1 align="center">Hello, World! </h1> 
+<h1 align="center">
+    Opa, sou <strong>Jose Carlos da Costa</strong>
+</h1> 
 
-<p>
-    Meu nome é <strong>José Carlos da Costa</strong> e atualmente sou estudante de Desenvolvimento Web na <strong>Trybe</strong>.
-</p>
+<h2 align="left">
+    Atualmente sou estudante de Desenvolvimento Web (Full StacK) na <strong>Trybe</strong>.
+</h2>
 
 <h2>ℹ️ Informações gerais</h2>
 
@@ -10,9 +12,17 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
+<strong>Atualmente estudando</strong>: Python
+
 <strong>Email de contato</strong>: jccostaso@gmail.com
 
-<strong>Mais detalhes sobre mim, acesse meu linkedin</strong>: <a href="https://linkedin.com/in/jose-carlos-da-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-carlos-da-costa" height="30" width="30" /></a>
+<h3 align="left">
+    <strong>Mais detalhes sobre mim, acesse meu linkedin</strong>:
+</h3>
+<p align="left">
+</h2>
+<a href="https://linkedin.com/in/jose-carlos-da-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-carlos-da-costa" height="30" width="30" /></a>
+</p>
 
 <h3>💻 Principais linguagens e ferramentas</h3>
 
