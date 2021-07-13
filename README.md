@@ -3,7 +3,7 @@
 </h1> 
 
 <h2 align="left">
-    Atualmente sou estudante de Desenvolvimento Web (Full StacK) na <strong>Trybe</strong>.
+    Sou estudante de Desenvolvimento Web (Full StacK) na <strong>Trybe</strong>.
 </h2>
 
 <h2>ℹ️ Informações gerais</h2>
