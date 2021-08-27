@@ -36,6 +36,8 @@
 
 <h3>Meus interesses e projetos</h3>
 
-Aprecio muito resolver problemas, assim a busca constante por novos aprendizados faz parte da minha vida. Trabalhei 15 anos na área de telecom, migrei para área administrativa financeira, onde permaneço atuando até hoje como consultor de negócios da [Just & ETC Group](https://www.justintercambios.com.br/), empresa do segmento de intercâmbio. A paixão por facilitar a vida das pessoas, através da automatização de processos, me levou a aprender a programar em VBA Excel.
+A consequência por ter um espírito um tanto inquieto é a a busca constante por novos conhecimentos. Trabalhei mais de 15 anos na área de telecom, com uma passagem como empreendedor, migrei para área administrativa financeira, onde atuo até hoje como consultor de negócios da [Just & ETC Group](https://www.justintercambios.com.br/), empresa do segmento de intercâmbios. Aprendi a programar em VBA Excel, por acreditar que processos sempre podem ser melhorados e automatizados, informações podem ser transformadas em dados e dados em conhecimento.
 
-Os resultados obtidos me convenceram que estudar desenvolvimento de software me possibilitará, por meio da tecnologia, causar um impacto positivo na vida de muitas pessoas. Essa convicção me fez buscar a mudança de carreira e nessa busca encontrei na [Trybe](https://www.betrybe.com/), uma escola que além de me ensinar programação, me ensina aprender a aprender todos os dias. Destaco como minhas habilidades, análise e automação de processos, levantamento de requisitos, banco de dados SQL/NoSQL, análise de dados, VBA Excel, JavaScript, React.js, Node.js e Python.
+Bons resultados apontaram que aprofundar no estudo de desenvolvimento de software possibilitaria causar impacto positivo na vida de pessoas e negócios. Na busca encontrei na [Trybe](https://www.betrybe.com/), uma escola que além de me ensinar programação, me ensinou que aprender a aprender muda nossas vidas.
+
+Destaco como minhas principais habilidades técnicas, análise e automação de processos, orientação por dados, banco de dados SQL/NoSQL, VBA Excel, JavaScript, Node.js e Python.
