@@ -34,7 +34,7 @@
 
 ![Zecas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZecaCosta&show_icons=true&theme=radical)
 
-<h3>Meus interesses e projetos</h3>
+<h3>O que me move?</h3>
 
 A consequência por ter um espírito um tanto inquieto é a a busca constante por novos conhecimentos. Trabalhei mais de 15 anos na área de telecom, com uma passagem como empreendedor, migrei para área administrativa financeira, onde atuo até hoje como consultor de negócios da [Just & ETC Group](https://www.justintercambios.com.br/), empresa do segmento de intercâmbios. Aprendi a programar em VBA Excel, por acreditar que processos sempre podem ser melhorados e automatizados, informações podem ser transformadas em dados e dados em conhecimento.
 
