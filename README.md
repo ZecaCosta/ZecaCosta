@@ -12,7 +12,7 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Atualmente estudando</strong>: Python
+<strong>Atualmente estudando</strong>: Python, PowerBI e engenharia de dados
 
 <strong>Email de contato</strong>: jccostaso@gmail.com
 
