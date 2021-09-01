@@ -20,7 +20,7 @@
     <strong>Mais detalhes sobre mim, acesse meu linkedin</strong>:
 </h3>
 <p align="left">
-</h2>
+ 
 <a href="https://linkedin.com/in/jose-carlos-da-costa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose-carlos-da-costa" height="30" width="30" /></a>
 </p>
 
@@ -40,6 +40,14 @@
 
 ![Zecas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZecaCosta&show_icons=true&theme=radical)
 
+
+<p>
+   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/beee4b08ec1e67a8809b8620862e8139d199be34696e48a1b92355cd4a980f01/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f686e617461732d68656e7269717565266c61796f75743d636f6d70616374267468656d653d677261797768697465267469746c655f636f6c6f723d323638626432"><img align="center" src="https://camo.githubusercontent.com/beee4b08ec1e67a8809b8620862e8139d199be34696e48a1b92355cd4a980f01/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f686e617461732d68656e7269717565266c61796f75743d636f6d70616374267468656d653d677261797768697465267469746c655f636f6c6f723d323638626432" alt="ZecaCosta" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaCosta &amp;layout=compact&amp;theme=graywhite&amp;title_color=268bd2" style="max-width:100%;"></a>
+</p>
+
+
+
+<p align="left">
 <h3>O que me move?</h3>
 
 A consequência por ter um espírito um tanto inquieto é a a busca constante por novos conhecimentos. Trabalhei mais de 15 anos na área de telecom, com uma passagem como empreendedor, migrei para área administrativa financeira, onde atuo até hoje como consultor de negócios da [Just & ETC Group](https://www.justintercambios.com.br/), empresa do segmento de intercâmbios. Aprendi a programar em VBA Excel, por acreditar que processos sempre podem ser melhorados e automatizados, informações podem ser transformadas em dados e dados em conhecimento.
@@ -47,3 +55,4 @@ A consequência por ter um espírito um tanto inquieto é a a busca constante po
 Bons resultados apontaram que aprofundar no estudo de desenvolvimento de software possibilitaria causar impacto positivo na vida de pessoas e negócios. Na busca encontrei na [Trybe](https://www.betrybe.com/), uma escola que além de me ensinar programação, me ensinou que aprender a aprender muda nossas vidas.
 
 Destaco como minhas principais habilidades técnicas, análise e automação de processos, orientação por dados, banco de dados SQL/NoSQL, VBA Excel, JavaScript, Node.js e Python.
+</p>
