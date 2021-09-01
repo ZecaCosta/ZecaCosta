@@ -2,10 +2,10 @@
     Opa, sou <strong>Jose Carlos da Costa</strong>
 </h1> 
 
-<h3 align="left">
+<h2 align="left">
    Desenvolvedor Web Full-Stack pela <strong>Trybe</strong>.
 
-</h3>
+</h23>
 
 <h2>ℹ️ Informações gerais</h2>
 
