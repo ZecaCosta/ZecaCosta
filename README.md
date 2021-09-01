@@ -32,8 +32,8 @@
 
 <h3>Outras ferramentas e utilidades</h3>
 
-|<strong> Linux </strong>|<strong> Git </strong>|<strong> GitHub </strong>|<strong> Heroku </strong>|<strong> VS Code </strong>|<strong> Postaman </strong>|<strong> VBA Excel </strong>
-|-|-|-|-|-|-|
+|<strong> Linux </strong>|<strong> Git </strong>|<strong> GitHub </strong>|<strong> Heroku </strong>|<strong> VS Code </strong>|<strong> Postaman </strong>|<strong> VBA Excel </strong>|
+|-|-|-|-|-|-|-|
 |<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"/>|<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732220.svg"/>
 
 <h3>Alguns dados do meu GitHub</h3>
