@@ -26,8 +26,8 @@
 
 <h3>💻 Principais linguagens e ferramentas</h3>
 
-|<strong> JavaScript </strong>|<strong> HTML5 </strong>|<strong> CSS3 </strong>|<strong> React </strong>|<strong> Node </strong>|<strong> Python </strong>|<strong> VBA Excel </strong>| <strong> MySQL </strong>|<strong> MongoDB </strong>|<strong> GitHub </strong>|<strong> Heroku </strong>
-|-|-|-|-|-|-|-|-|-|-|-
+|<strong> JavaScript </strong>|<strong> HTML5 </strong>|<strong> CSS3 </strong>|<strong> React </strong>|<strong> Node </strong>|<strong> Python </strong>|<strong> VBA Excel </strong>| <strong> MySQL </strong>|<strong> MongoDB </strong>
+|-|-|-|-|-|-|-|-|-|
 |<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888847.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg"/>|<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/732/732220.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg"/>|<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/733/733609.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/873/873120.svg"/>
 
 <h3>💻 Principais linguagens e ferramentas</h3>
