@@ -3,7 +3,7 @@
 </h1> 
 
 <h2 align="left">
-   Desenvolvedor Web pela <strong>Trybe</strong>.
+   Desenvolvedor Web Full-Stack pela [Trybe](https://www.betrybe.com/).
 </h2>
 
 <h2>ℹ️ Informações gerais</h2>
@@ -12,7 +12,7 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Atualmente estudando</strong>: Python, PowerBI e engenharia de dados
+<strong>Atualmente estudando</strong>: PowerBI e Engenharia de Dados
 
 <strong>Email de contato</strong>: jccostaso@gmail.com
 
