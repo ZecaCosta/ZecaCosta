@@ -13,7 +13,7 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Atualmente estudando</strong>: Engenharia e análise de dados (Pandas e Numpy)
+<strong>Atualmente estudando</strong>: Engenharia e análise de dados (Pandas e NumPy)
 
 <strong>Email de contato</strong>: jccostaso@gmail.com
 
