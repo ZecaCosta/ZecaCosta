@@ -13,7 +13,7 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Atualmente estudando</strong>: Django, PowerBI e Engenharia de Dados
+<strong>Atualmente estudando</strong>: Pandas, Numpy, PowerBI e engenharia e análide de dados.
 
 <strong>Email de contato</strong>: jccostaso@gmail.com
 
