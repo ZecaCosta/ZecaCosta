@@ -13,8 +13,7 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Atualmente trabalho</strong>: Backend Developer na [Zak](https://www.zak.app/)
-
+<strong>Trabalho atual</strong>: Backend Developer na [Zak](https://www.zak.app/)
 
 <strong>Atualmente estudando</strong>: Swagger
 
