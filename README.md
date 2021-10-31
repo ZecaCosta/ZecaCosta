@@ -45,9 +45,11 @@
 <p align="left">
 <h3>O que me move?</h3>
 
-A consequência por ter um espírito um tanto inquieto é a a busca constante por novos conhecimentos. Trabalhei mais de 15 anos na área de telecom, com uma passagem como empreendedor, migrei para área administrativa financeira, onde atuo até hoje como consultor de negócios da [Just & ETC Group](https://www.justintercambios.com.br/), empresa do segmento de intercâmbios. Aprendi a programar em VBA Excel, por acreditar que processos sempre podem ser melhorados e automatizados, informações podem ser transformadas em dados e dados em conhecimento.
+A consequência por ter um espírito um tanto inquieto é a a busca constante por novos conhecimentos. Trabalhei mais de 15 anos na área de telecom, com uma passagem como empreendedor, migrei para área administrativa financeira, onde atuei por mais de 18 anos. Aprendi a programar em VBA Excel, por acreditar que processos sempre podem ser melhorados e automatizados, informações podem ser transformadas em dados e dados em conhecimento.
 
 Bons resultados apontaram que aprofundar no estudo de desenvolvimento de software possibilitaria causar impacto positivo na vida de pessoas e negócios. Na busca encontrei na [Trybe](https://www.betrybe.com/), uma escola que além de me ensinar programação, me ensinou que aprender a aprender muda nossas vidas.
 
 Destaco como minhas principais habilidades técnicas, análise e automação de processos, orientação por dados, banco de dados SQL/NoSQL, VBA Excel, JavaScript, Node.js e Python.
+
+Atualmente trabalho na Zak como Backend Dveloper.
 </p>
