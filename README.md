@@ -15,7 +15,7 @@
 
 <strong>Atualmente estudando</strong>: Swagger
 
-<strong>Email de contato</strong>: jccostaso@gmail.com
+<strong>Email de contato</strong>: zecacostadev@gmail.com
 
 <h3 align="left">
     <strong>Mais detalhes sobre mim, acesse meu linkedin</strong>:
