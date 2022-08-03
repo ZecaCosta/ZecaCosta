@@ -13,8 +13,6 @@
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
-<strong>Trabalho atual</strong>: Backend Developer na [Zak](https://www.zak.app/)
-
 <strong>Atualmente estudando</strong>: Swagger
 
 <strong>Email de contato</strong>: jccostaso@gmail.com
