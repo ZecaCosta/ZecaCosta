@@ -9,7 +9,7 @@
 
 <h2>ℹ️ Informações gerais</h2>
 
-<strong>Pode me chamar de</strong>: Zeca Costa
+<strong>Pode me chamar de</strong>: Carlos
 
 <strong>Moro em</strong>: Sorocaba - São Paulo - Brasil 🇧🇷
 
